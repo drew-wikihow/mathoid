@@ -71,7 +71,7 @@
         "librsvg2-dev"
       ]
     }
-  }
+  },
   "engines": {
     "node": "6.10.3"
   }
